@@ -1,0 +1,27 @@
+{
+    "name": "com.tojgames.localizationhelper",
+    "version": "1.0.0",
+    "displayName": "Localization",
+    "description": "Localize your game easily",
+    "unity": "2020.3",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://tojgames.com/",
+    "changelogUrl": "https://tojgames.com/",
+    "licensesUrl": "https://tojgames.com/",
+    "dependencies": {
+   },
+   "keywords": [
+      "localization",
+      "language",
+      "translation",
+      "word"
+    ],
+    "author": {
+      "name": "TOJGAMES",
+      "email": "unityassets@tojgames.com",
+      "url": "https://tojgames.com/"
+    },
+
+    "type" : "Tool"
+  }
+  
